@@ -27,7 +27,16 @@ $(document).ready(function(){
         $('html').css("scrollBehavior", "smooth");
     });
 // Alert User
-alert(" Hello, please give me some advice on how my first website looked. Because of this, I will try to improve it in the coming days.")
+alert(" I sincerely thank you for taking the time to visit my personal website. It truly means a lot to me that you stopped by and explored my work.
+
+Your support and interest inspire me to continue creating and sharing. I hope you found the content valuable and engaging. If you have any feedback, suggestions, or simply want to connect, please feel free to reach out.
+
+Once again, thank you so much for your visit — looking forward to staying in touch!.मेरो व्यक्तिगत वेबसाइटमा समय निकालेर भ्रमण गर्नुभएकोमा म हृदयदेखि धन्यवाद दिन चाहन्छु। तपाईंले मेरो काम हेर्नु भएको र रुचाउनु भएको थाहा पाउँदा मलाई अत्यन्त खुशी लागेको छ।
+
+तपाईंको समर्थन र रुचिले मलाई अझ राम्रो सिर्जना गर्न प्रेरणा दिन्छ। आशा छ, तपाईंले वेबसाइटको सामग्री उपयोगी र रमाइलो पाउनुभयो। यदि तपाईंको कुनै सुझाव, प्रतिक्रिया वा सन्देश छ भने कृपया सम्पर्क गर्न नहिचकिचाउनुहोस्।
+
+फेरि एकपटक, तपाईंको भ्रमणको लागि धेरै धेरै धन्यवाद। सम्पर्कमा रहन पाउँ भनेर आशा गर्दछु।
+    ")
     // toggle menu/navbar script
     $('.menu-btn').click(function(){
         $('.navbar .menu').toggleClass("active");
